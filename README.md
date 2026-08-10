@@ -11,7 +11,7 @@ Backend API:
 https://abtalks-redesignfinal.onrender.com/docs
 
 GitHub Repository:
-https://github.com/praveensubb/ABTalks-Redesignfinal
+https://github.com/DeepakKatwa/ABTalks---Redesignfinal.git
 
 ---
 
